@@ -34,7 +34,7 @@ Desarrollar una aplicación que exponga una API RESTful de creación de usuarios
 #### 3. Ejecutar
 
  ```bash
-   cd apiUser\target
+   cd api-creacion-usuarios\target
    java -jar api-creacion-usuarios-0.0.1.jar
  ```
 
