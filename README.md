@@ -52,23 +52,23 @@ Desarrollar una aplicación que exponga una API RESTful de creación de usuarios
 
 
 ### 3. Login Satisfactorio
-![img.png](src/img/3. Login Satisfactorio.png)
+[![img.png](src/img/3. Login Satisfactorio.png)](https://raw.githubusercontent.com/danielquincy/api-creacion-usuarios/main/src/img/3.%20Login%20Satisfactorio.png)
 
 
 ### 4. Header Para Nuevo Usuario
-![img.png](src/img/4. Header Para Nuevo Usuario.png)
+[![img.png](src/img/4. Header Para Nuevo Usuario.png)](https://raw.githubusercontent.com/danielquincy/api-creacion-usuarios/main/src/img/4.%20Header%20Para%20Nuevo%20Usuario.png)
 
 
 ### 5. Guardando el Nuevo Registro
-![img.png](src/img/5. Guardando el Nuevo Registro6. Listar los  Registros.png)
+[![img.png](src/img/5. Guardando el Nuevo Registro6. Listar los  Registros.png)](https://github.com/danielquincy/api-creacion-usuarios/blob/main/src/img/5.%20Guardando%20el%20Nuevo%20Registro.png?raw=true)
 
 
 ### 6. Listar los  Registros
-![img.png](src/img/6. Listar los  Registros.png)
+[![img.png](src/img/6. Listar los  Registros.png)](https://raw.githubusercontent.com/danielquincy/api-creacion-usuarios/main/src/img/6.%20Listar%20los%20%20Registros.png)
 
 
 ### 7. Listado de los Registros Ingresados
-![img.png](src/img/7. Listado de los Registros Ingresados.png)
+[![img.png](src/img/7. Listado de los Registros Ingresados.png)](https://raw.githubusercontent.com/danielquincy/api-creacion-usuarios/main/src/img/7.%20Listado%20de%20los%20Registros%20Ingresados.png)
 
 
 
@@ -77,5 +77,5 @@ Desarrollar una aplicación que exponga una API RESTful de creación de usuarios
 * Usar Postman y el Protocolo HTTP GET: http://localhost:8080/v2/api-docs
   Validar que lleve autorización en el Header.
 
-  ![img.png](src/img/8. Documentacion Swagger.png)
+ [ ![img.png](src/img/8. Documentacion Swagger.png)](https://raw.githubusercontent.com/danielquincy/api-creacion-usuarios/main/src/img/8.%20Documentacion%20Swagger.png)https://raw.githubusercontent.com/danielquincy/api-creacion-usuarios/main/src/img/8.%20Documentacion%20Swagger.png
 
