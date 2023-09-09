@@ -44,7 +44,7 @@ Desarrollar una aplicación que exponga una API RESTful de creación de usuarios
   Con Protocolo HTTP Post
 
 ### 1. Validar Formato de Contraseña.png
-![img.png](src/img/1. Validar Formato de Contraseña.png)
+[![img.png](src/img/1. Validar Formato de Contraseña.png)](https://github.com/danielquincy/api-creacion-usuarios/blob/main/src/img/1.%20Validar%20Formato%20de%20Contraseña.png)
 
 
 ### 2. Guardado el Usuario de Inicio de Sesion Correctamente
