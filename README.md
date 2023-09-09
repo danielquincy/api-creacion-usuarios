@@ -48,7 +48,7 @@ Desarrollar una aplicación que exponga una API RESTful de creación de usuarios
 
 
 ### 2. Guardado el Usuario de Inicio de Sesion Correctamente
-![img.png](src/img/2. Guardado el Usuario de Inicio de Sesion Correctamente.png)
+[![img.png](src/img/2. Guardado el Usuario de Inicio de Sesion Correctamente.png)](https://raw.githubusercontent.com/danielquincy/api-creacion-usuarios/main/src/img/2.%20Guardado%20el%20Usuario%20de%20Inicio%20de%20Sesion%20Correctamente.png)
 
 
 ### 3. Login Satisfactorio
