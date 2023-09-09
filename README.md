@@ -44,31 +44,31 @@ Desarrollar una aplicación que exponga una API RESTful de creación de usuarios
   Con Protocolo HTTP Post
 
 ### 1. Validar Formato de Contraseña.png
-![src/img.png](src/img/1. Validar Formato de Contraseña.png)
+![img.png](src/img/1. Validar Formato de Contraseña.png)
 
 
 ### 2. Guardado el Usuario de Inicio de Sesion Correctamente
-![src/img.png](src/img/2. Guardado el Usuario de Inicio de Sesion Correctamente.png)
+![img.png](src/img/2. Guardado el Usuario de Inicio de Sesion Correctamente.png)
 
 
 ### 3. Login Satisfactorio
-![src/img.png](src/img/3. Login Satisfactorio.png)
+![img.png](src/img/3. Login Satisfactorio.png)
 
 
 ### 4. Header Para Nuevo Usuario
-![src/img.png](src/img/4. Header Para Nuevo Usuario.png)
+![img.png](src/img/4. Header Para Nuevo Usuario.png)
 
 
 ### 5. Guardando el Nuevo Registro
-![src/img.png](src/img/5. Guardando el Nuevo Registro6. Listar los  Registros.png)
+![img.png](src/img/5. Guardando el Nuevo Registro6. Listar los  Registros.png)
 
 
 ### 6. Listar los  Registros
-![src/img.png](src/img/6. Listar los  Registros.png)
+![img.png](src/img/6. Listar los  Registros.png)
 
 
 ### 7. Listado de los Registros Ingresados
-![src/img.png](src/img/7. Listado de los Registros Ingresados.png)
+![img.png](src/img/7. Listado de los Registros Ingresados.png)
 
 
 
@@ -77,5 +77,5 @@ Desarrollar una aplicación que exponga una API RESTful de creación de usuarios
 * Usar Postman y el Protocolo HTTP GET: http://localhost:8080/v2/api-docs
   Validar que lleve autorización en el Header.
 
-  ![src/img.png](src/img/8. Documentacion Swagger.png)
+  ![img.png](src/img/8. Documentacion Swagger.png)
 
